@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanDelos
-- 👀 I’m interested in coding, working out, video games and sports. 
+- 👀 I’m interested in Web Design, working out, video games and sports. 
 - 🌱 I’m currently learning JavaScript, HTML and CSS. 
 - 💞️ I’m looking to collaborate on cool projects. 
 - 📫 How to reach me: delossantosrryan@gmail.com 

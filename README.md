@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanDelos
 - 👀 I’m interested in Web Design, video games and sports. 
-- 🌱 I’m currently learning JavaScript, HTML and CSS. 
+- 🌱 I’m currently learning HTML, CSS, and Javascript. 
 - 💞️ I’m looking to collaborate on cool projects. 
 - 📫 How to reach me: delossantosrryan@gmail.com 
 - 👨🏽‍💻 I am actively posting projects on codepen.io: https://codepen.io/ryandelos 
